@@ -1,45 +1,45 @@
-🎤 Multilingual Grammar Scoring Engine
+<b>🎤 Multilingual Grammar Scoring Engine</b>
 
-An AI-powered speech-to-text and grammar analysis tool that can:
+<i>An AI-powered speech-to-text and grammar analysis tool that can:</i>
 
-Transcribe audio files in Hindi 🇮🇳 & English 🇺🇸.
+<b>Transcribe audio files in Hindi 🇮🇳 & English 🇺🇸.</b>
 
 Translate Hindi to English.
 
 Analyze grammar and provide a grammar score.
 
-🚀 Features
+<b>🚀 Features</b>
 
 ✅ Upload audio (.wav, .mp3, .mp4)✅ Convert audio to text using Speech Recognition✅ Detect and translate Hindi to English (if applicable)✅ Analyze grammar using AI-based grammar checking✅ Provide a grammar score based on errors detected
 
 🛠️ Installation
 
-1️⃣ Clone the Repository
+<b>1️⃣ Clone the Repository</b>
 
 git clone https://github.com/yourusername/multilingual-grammar-engine.git
 cd multilingual-grammar-engine
 
-2️⃣ Install Dependencies
+<b>2️⃣ Install Dependencies</b>
 
 Make sure you have Python 3.8+ installed, then run:
 
 pip install -r requirements.txt
 
-3️⃣ Install FFmpeg (for audio conversion)
+<b>3️⃣ Install FFmpeg (for audio conversion)</b>
 
-macOS:
+<b>macOS:</b>
 
 brew install ffmpeg
 
-Ubuntu/Linux:
+<b>Ubuntu/Linux:</b>
 
 sudo apt update && sudo apt install ffmpeg
 
-Windows:
+<b>Windows:</b>
 
 Download from FFmpeg official website and add it to PATH.
 
-🎯 How to Use
+<b>🎯 How to Use</b>
 
 🔹 Run the App
 
@@ -51,7 +51,7 @@ streamlit run app.py
 
 🛠 Technologies Used
 
-Python 🐍
+<b>Python 🐍</b>
 
 Streamlit (Web UI)
 
@@ -63,19 +63,19 @@ Google Translate API (Translation)
 
 LanguageTool (Grammar Analysis)
 
-📝 Example Output
+<b>📝 Example Output</b>
 
 ✅ Detected Language: Hindi✅ Transcribed Text: "आज मौसम बहुत अच्छा है।"✅ Translated Text: "The weather is very nice today."✅ Grammar Score: 95/100✅ Suggestions: 1 minor correction
 
-🤝 Contributing
+<b>🤝 Contributing</b>
 
 Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
 
-📜 License
+<b>📜 License</b>
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
 ⭐ If you like this project, give it a star on GitHub!
 
-🚀 Happy Coding! 🎧
+<b>🚀 Happy Coding! 🎧</b>
 
